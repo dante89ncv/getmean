@@ -1,0 +1,27 @@
+
+.nomargin{
+  margin:20px;
+}
+
+.content{
+  padding-top: 60px;
+  margin-left: 20px;
+  margin-right: 20px;
+  display: block
+}
+
+footer{
+  margin-left: 20px;
+}
+
+
+.redborders{
+  border: solid 1px red
+}
+
+
+.review {padding-bottom: 5px;}
+.panel-body.review-container {padding-top: 0;}
+.review-header {margin-bottom: 10px;}
+.reviewAuthor {margin: 0 5px;}
+.reviewTimestamp {color: #ccc;}
